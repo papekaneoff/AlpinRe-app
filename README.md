@@ -12,7 +12,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-5C6B73?logo=plotly&logoColor=white)
 ![Course](https://img.shields.io/badge/HEC%20Lausanne-QARM%20II-C9A227)
 
-**🔗 Live app:** `https://<your-app>.streamlit.app`
+**🔗 Live app:** `https://alpinre.streamlit.app`
 
 </div>
 
@@ -181,7 +181,6 @@ Durations and yields to maturity come from Vanguard fund data (31 Oct 2026). Wei
 
 Course project for **Quantitative Asset and Risk Management II (QARM II)**, HEC Lausanne — built on the Black–Litterman model, risk contributions and portfolio optimization seen in class.
 
-**Author:** `<Your name>` · `<your.email@unil.ch>`
 
 <div align="center">
 
